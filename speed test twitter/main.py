@@ -4,7 +4,7 @@ import time
 
 PROMISED_DOWN = 150
 PROMISED_UP = 10
-#bu uygulama için chrome driverına ihtiyacınız vardır. 
+#bu uygulama için chrome driverı programına ihtiyacınız vardır. 
 CHROME_DRIVER_PATH =  "" #YOUR CHROME DRIVER PATH
 TWITTER_EMAIL = "" #YOUR TWITTER EMAIL
 TWITTER_PASSWORD = "" #YOUR TWITTER PASSWORD
